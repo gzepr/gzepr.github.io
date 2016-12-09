@@ -1,8 +1,9 @@
 # Monday Party
-Chansons d'Eric Humbert
+Songs by Eric Humbert
 ## Demos
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;color=00cca9&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false"></iframe>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true"></iframe>
 
 
 ## Chansons
@@ -22,10 +23,8 @@ Chansons d'Eric Humbert
 
 
 ## <a name="lottery"></a>Lottery winner
-### Enregistrement
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131332535&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
-###Themes
 
 Une chanson sur la chance, facteur le plus determinant dans nos vies. Le personnage de cette chanson est un mec qui a eu de la chance, comme nous tous plus ou moins, mais qui l’a oublié.
 
@@ -85,9 +84,11 @@ Il pense que l’expression « on a que ce qu’on mérite » est vraie, alors q
 
 
 ## <a name="if"></a>If you're not here
-### Theme
 
-Une chanson sur le deuil, le manque, l'amour malgré la mort.
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/117855603&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+Une chanson sur le deuil, le manque, l'amour crié dans le vide.
+
 
 ### Paroles
 
@@ -123,17 +124,15 @@ Une chanson sur le deuil, le manque, l'amour malgré la mort.
 ```
 
 
-### Enregistrement
-
-[If You're Not Here (demo)](https://soundcloud.com/zepr/ifyourenothere-31-10-13-00h27m?in=zepr/sets/monday-party) sur soundcloud.
-
 
 ## <a name="lala"></a>Lalala 
-### Theme
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131667378&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Une chanson d’amour plus légère. C’est l’histoire de la rencontre entre un garçon seul qui parle aux nuages et une fille seule qui parle aux arbres. Cette rencontre change la musique de leur vie. 
 
 ### Paroles
+
 ```
 
 	He was talking to the clouds
@@ -160,17 +159,19 @@ Une chanson d’amour plus légère. C’est l’histoire de la rencontre entre 
 	Lalala La La
 	Lalala La La
 	Lalala La La La
+	
 ```
-
-### Enregistrement
-
-[Lalala (demo)](https://soundcloud.com/zepr/lalala-demo-091913?in=zepr/sets/monday-party) sur soundcloud.
 
 
 
 ## <a name="when"></a>When
-### Theme
-Une chanson d'humour noir, qui pose joyeusement la question: quand va t’on creuver ?
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265488904&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+Une chanson d'humour noir, qui pose joyeusement la question: 
+
+Quand va t’on creuver ?
+
 Et qui s’amuse du fait que des gens meurent en permanence mais qu’heureusement la plupart du temps on s’en fout !
 
 ### Paroles
@@ -220,7 +221,8 @@ Et qui s’amuse du fait que des gens meurent en permanence mais qu’heureuseme
 
 
 ## <a name="asleep"></a>Asleep 
-### Thème
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265489117&amp;color= 00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Une chanson d’amour. Le réconfort que l'on peut avoir quand la nuit, pris d'angoisses, on contemple la personne que l’on aime dans son sommeil. Elle dort paisiblement et tout le reste devient sans importance. 
 
@@ -258,9 +260,10 @@ Une chanson d’amour. Le réconfort que l'on peut avoir quand la nuit, pris d'a
 
 
 ## <a name="girl"></a>A Girl from the Islands
-### Thème
 
-Hommage à l'écrivain romancier Romain Gary. Cousin vit seul dans le grand paris avec son python. Statisticien chez IBM il se sent très seul. Son python ramené d'afrique parce que ça donne des perspectives s'appelle gros câlin , car quand il s'enroule autour de lui il sent comme 2 longs bras qui l'étreignent. Il est persuadé qu'il va épouser un fille de Guadeloupe avec qui il reste silencieux tout les matins, dans l'ascenseur de son bureau. 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/270297599&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+Hommage à l'écrivain romancier Romain Gary. Cousin vit seul dans le grand paris avec son python. Statisticien chez IBM il se sent très seul. Son python ramené d'Afrique parce que ça donne des perspectives s'appelle gros câlin , car quand il s'enroule autour de lui, il sent comme 2 longs bras qui l'étreignent. Il est persuadé qu'il va épouser un fille de Guadeloupe avec qui il reste silencieux tout les matins, dans l'ascenseur de son bureau. 
 
 ### Paroles
 
@@ -310,7 +313,8 @@ Hommage à l'écrivain romancier Romain Gary. Cousin vit seul dans le grand pari
 
 
 ## <a name="sp"></a>Self-preservation
-### Thème
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/44253045&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Sur l’instinct de conservation. Qu’est-ce qu’on serait capable de faire si notre entourage civilisé, résultat de millénaire de civilisation venait à s’écrouler , par exemple guerre civile.
 On pense trop que la paix est acquise, alors que la paix ça se travaille tous les jours.
@@ -347,7 +351,6 @@ On pense trop que la paix est acquise, alors que la paix ça se travaille tous l
 
 
 ## <a name="ent"></a>Entertained
-### Thème
 
 Sur le divertissement.
 
@@ -380,11 +383,9 @@ Sur le divertissement.
 
 
 ## <a name="people"></a>People we don't know
-### Enregistrement
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235895922&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-### Thème
 
-Une chanson Peace and love car c'est un message qu'il ne faut pas se lasser de répéter. Ca peut sembler niais. Mais dans les années 60 on militait pour la liberté, et personne n'aurait voté pour des partis fascistes comme aujourd'hui. Donc le message est loin d'être passé. 
+Une chanson Peace and Love, car c'est un message qu'il ne faut pas se lasser de répéter. Ca peut sembler niais. Mais dans les années 60 on militait pour la liberté, et personne n'aurait voté pour des partis fascistes comme aujourd'hui. Donc le message est loin d'être passé. 
 
 
 ### Paroles
@@ -430,13 +431,15 @@ Une chanson Peace and love car c'est un message qu'il ne faut pas se lasser de r
 
 # Graphisme
 ## Pochettes
+Copyright: Eric Humbert & cheeri
+ 
 <a href='https://photos.google.com/share/AF1QipMjWaK_nAGYLokzN4bJTzRUmi-RkM3nIP5SvHphJt5mnLNAvLtDVBnH2oXDS16-zg?key=MDljZ2RCcGZqRGIwaEgwLVQwRmlSN2UxbWJkQkNR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/kAspbEnAe6JjPa1nIH5qEF6t9iZ_1CJoW1Oi6HIWHayTverxWVJP4lFlkA_hu-y5I09vdnPQH_BTT-OLj0_emYS3m_H01smiYHrP8YmDpJ-al6Tne0axParZS4H6LSTaUvrB9Kg' /></a>
 
 ## Flyers
 <a href='https://photos.google.com/share/AF1QipN9k0bsNbkzjoWRg8IGQakRvapgOqTxXBzQgskmynhF4s0Dl_QpJ_ENkGP4ah4VqQ?key=VGNzRXQ1eUFCZ3dRUkdkNndVZ1RVbEtlczNDTmNn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/fkG46U6NEy8aLot7IijuOhU36qi9o7DC8y71xVWrXcYXg8TqQROfZDGSfoo1iwnXagyTdHfhL61X_0GFRqGNg-NEewn-yzLCNmgMkeFboJlGKvmUHqGqvZPGMvs3FinsZZGPHGU' /></a>
-## photos non utilisées
-
-<a href='https://photos.google.com/share/AF1QipOkRaCPHbkt0hWoMxKzyev35vGbayS_zyuD1au9ySe4TDrkgCKwvqwb7mQqw-L_Gg?key=YV9kNHpoV0dUdkVBRGNGNUlrREFzRTVzQ1R4UHNB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/_ko8ssJMrckrLtjoS1IJUNOeR9bA6-6iR88UQ5h80mPKBriVDYfvN-DbtuYI3J-dVxg0QIVYXiWQP_nPoGTClzBownIO4l-ijbideKFimCkkL37StapSSJZMxTmnunUdtT26004' /></a>
+## Photos pour plus tard
+Copyright: Eric Humbert
+<a href='https://photos.google.com/share/AF1QipNfag-xoQ6yJUQhLPGAT5OA2ekoxrbjpO8ThtYDlTF5MDC21Cb-DfjPZxQjMYGydg?key=T0hldjRlVUZIOS1Id3BlQ3U4bE9wMnp3eEh1NldB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/Nd-L1rYsB-bhhbh1VI4AVE__AlhTDHdoqoS-b3HtjdAcEwb19rKFYKHNg-0MRXAhgpNjDdmKP8343eAPtjTgmaEaWAzY7NXX6GfcY2eZ3BGIEfO6pVUKGrE_D004ufQdmAPKH5o' /></a>
 
 
 
