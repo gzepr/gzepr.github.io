@@ -1,0 +1,446 @@
+# Monday Party
+Chansons d'Eric Humbert
+## Demos
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/38908720&amp;color=00cca9&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false"></iframe>
+
+
+## Chansons
+
+
+- [Lottery winner](#lottery)
+- [If you're not here](#if)
+- [Lalala](#lala)
+- [When](#when)
+- [Asleep](#asleep)
+- [A Girl from the Islands](#girl)
+- [Self-preservation](#sp)
+- [Entertained](#ent)
+- [Peopple we don't know](#people)
+
+
+
+
+## <a name="lottery"></a>Lottery winner
+### Enregistrement
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131332535&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
+###Themes
+
+Une chanson sur la chance, facteur le plus determinant dans nos vies. Le personnage de cette chanson est un mec qui a eu de la chance, comme nous tous plus ou moins, mais qui l’a oublié.
+
+Il se sent fier de ce qu’il a, fier de ce qu’il est, alors qu’il n’y est justement pour pour pas grand chose. Fier de ses gènes, de son milieu, de là où il est né. Il peut se sentir supérieur aux autres, ou ne les comprend pas, alors que les autres n’ont juste pas eu la même chance. C'est comme s'il était fier d’avoir gagné au Loto. 
+
+Il pense que l’expression « on a que ce qu’on mérite » est vraie, alors que la plupart du temps on a surtout ce que l’on à la chance ou la malchance d’avoir.
+
+
+### Paroles
+
+```
+
+	
+	I’m proud of the colour of my eyes
+	I’m proud of all the stuff I buy
+	I’m proud of my country
+	Proud of my family
+
+	I’m proud of what I am
+	Don’t tell me what I do
+	I’m so proud to be
+	A Lottery Winner
+
+	Don’t tell me what I do
+	Just look at what I am.
+	
+	I was born in here
+	This was the good ticket
+	I deserved to win, I guess
+	I deserved to win, I know
+
+	I’m proud of what I am
+	Don’t tell me what I do
+	I’m so proud to be
+	A Lottery Winner
+	
+	I’m proud of my blue jeans
+	I’m proud of my genes
+
+	I’m proud of what I am
+	Don’t tell me what I do
+	I’m so proud to be
+	A lottery Winner
+
+	I made the good choice
+	And I won’t share my gains!
+	We drew the winning ticket
+	Why didn't they do the same?
+	
+	I made the good choice
+	And I won’t share my gains!
+	We drew the winning ticket
+	Why didn't they do the same?
+	
+```
+
+
+
+## <a name="if"></a>If you're not here
+### Theme
+
+Une chanson sur le deuil, le manque, l'amour malgré la mort.
+
+### Paroles
+
+
+```
+
+	It was crying
+	That awoke me that night
+	Your final fight
+	Had come to an end
+
+	You wouldn't have wanted us sad
+	But who can be that strong
+	Nothing can balance your loss 
+	You're just not here.
+	Or only in my heart.
+
+	You said you had 
+	Just for a while
+	But knew you would
+	Never come back.
+
+	I know that you can’t here me
+	I know it’s just a sad song
+	But I just want to yell
+	That I love you
+	
+	And if you’re not here
+	I’m still you.
+	If you’re not here
+	I’m still you.
+
+```
+
+
+### Enregistrement
+
+[If You're Not Here (demo)](https://soundcloud.com/zepr/ifyourenothere-31-10-13-00h27m?in=zepr/sets/monday-party) sur soundcloud.
+
+
+## <a name="lala"></a>Lalala 
+### Theme
+
+Une chanson d’amour plus légère. C’est l’histoire de la rencontre entre un garçon seul qui parle aux nuages et une fille seule qui parle aux arbres. Cette rencontre change la musique de leur vie. 
+
+### Paroles
+```
+
+	He was talking to the clouds
+	felt he was knocked out in the first round
+	Alone, he found his life was Lalala
+
+	She was talking to the trees
+	felt she was unknown poetry
+	Alone, she found her life was Lalala
+
+	And now they're floating, 
+	Counting the stars
+	And the music form the sky
+	Don't say no more Lalala
+
+	No it' more like:
+	La
+	Lalala La La
+	Lalala La La
+	Lalala La La La
+
+	Yes it's more like:
+	La
+	Lalala La La
+	Lalala La La
+	Lalala La La La
+```
+
+### Enregistrement
+
+[Lalala (demo)](https://soundcloud.com/zepr/lalala-demo-091913?in=zepr/sets/monday-party) sur soundcloud.
+
+
+
+## <a name="when"></a>When
+### Theme
+Une chanson d'humour noir, qui pose joyeusement la question: quand va t’on creuver ?
+Et qui s’amuse du fait que des gens meurent en permanence mais qu’heureusement la plupart du temps on s’en fout !
+
+### Paroles
+
+```
+
+	One day, you’re laughing and smiling
+	The day after, you’re dead!
+	One day you’re riding or biking
+	Then a truck drive over your head!
+	One day you’re happy singing
+	The day after, you’d better pray instead!
+	One day you’re kissing, you’re loving
+	The day after, she’s dead…
+	
+	Who’s gonna die today?
+	Maybe me… maybe you…
+	Sometimes people die!
+	Sometimes it’s even real people that you know,
+	and it’s sad! so sad
+	But sometimes it’s just other people
+	that other people know
+	And you don’t care!
+	
+	One day, you’re laughing and smiling
+	The day after, you’re dead!
+	One day you’re heart is beating
+	Then it’s stone-dead
+	One day the life light is green
+	Then it turns red…
+	One day you get a new painting
+	The day after, you get a cancer instead
+	Who’s gonna die today?
+	Maybe me… maybe you…
+	
+	Sometimes people die!
+	Sometimes it’s even real people that you know,
+	and it’ s sad! so sad
+	But sometimes it’s just other people
+	that other people know
+	And you don’t care!
+```
+
+
+
+
+
+
+## <a name="asleep"></a>Asleep 
+### Thème
+
+Une chanson d’amour. Le réconfort que l'on peut avoir quand la nuit, pris d'angoisses, on contemple la personne que l’on aime dans son sommeil. Elle dort paisiblement et tout le reste devient sans importance. 
+
+### Paroles
+
+```
+
+	You're laying in your sleep
+	I hear you breathing and nothing matters. 
+
+	The fear at night
+	Of what could go wrong
+	The fear of losing you
+	Your love your arms
+
+	And how could I forget
+	The threat in every day! 
+	And how could I forget
+	The threat in every day! 
+
+	You're laying in your sleep
+	I hear you breathing and nothing matters. 
+	
+	The fear at night
+	Of what could go wrong
+	The fear of losing you
+	Your love your arms
+
+	And how could I forget
+	The threat in every day! 
+	And how could I forget
+	The threat in every day!
+
+```
+
+
+## <a name="girl"></a>A Girl from the Islands
+### Thème
+
+Hommage à l'écrivain romancier Romain Gary. Cousin vit seul dans le grand paris avec son python. Statisticien chez IBM il se sent très seul. Son python ramené d'afrique parce que ça donne des perspectives s'appelle gros câlin , car quand il s'enroule autour de lui il sent comme 2 longs bras qui l'étreignent. Il est persuadé qu'il va épouser un fille de Guadeloupe avec qui il reste silencieux tout les matins, dans l'ascenseur de son bureau. 
+
+### Paroles
+
+```
+	
+	Nobody notices me
+	Except when I’m out with my python
+	I enjoy people looking at me
+	But they’re afraid and they call the police
+
+	But I’m gonna get married with
+	This girl from the islands
+	She knows that I exist
+	She smiles at me in  the lift 
+
+	I live in a demographic city
+	Try to be one among millions
+	I feel so dangerously close to zero
+	that I wish I could be just two
+
+	When the world is missing outside,
+	there’s still my python by my side
+	It coils up around my heat with no harm
+	Hugs my body with its long arm
+
+   But I’m gonna get married with
+	This girl from the islands
+	She knows that I exist
+	She smiles at me in  the lift 
+
+	Each morning at the office, I wait
+	for her to get into the same lift
+	She’s wearing boots and a mini-skirt
+	Each floor is a stop on our lovers’ trip
+
+   But I’m gonna get married with
+	This girl from the islands
+	She knows that I exist
+	She smiles at me in  the lift 
+
+	And I do my best silence
+	While we’re travelling in the lift
+ 
+
+```
+
+
+
+## <a name="sp"></a>Self-preservation
+### Thème
+
+Sur l’instinct de conservation. Qu’est-ce qu’on serait capable de faire si notre entourage civilisé, résultat de millénaire de civilisation venait à s’écrouler , par exemple guerre civile.
+On pense trop que la paix est acquise, alors que la paix ça se travaille tous les jours.
+
+### Paroles
+
+```
+
+	My world is a friend,
+	So close and familiar,
+	That I could think,
+	It was born with me.
+
+	My world 's filled with men,
+	Whose behavior seem so natural,
+	Cause it's the one 
+	I have always seen. 
+
+	My world yet was built
+	By million men brains and hearts
+	And blood .
+	My world is fragile, 
+	And we can come back again,
+	As history can tell, 
+	Barbarians. 
+
+	Where would I run ?
+	Where would I hide ?
+	Who would I kill to save my folks ?
+	When my world .... has come back to wild. 
+		 
+
+```
+
+
+## <a name="ent"></a>Entertained
+### Thème
+
+Sur le divertissement.
+
+### Paroles
+
+```
+
+    Watching TV makes me busy
+    Video Games makes me busy
+    News of the wold make me busy
+    It's seems that life is easy
+
+    I'm entertained, and hours
+    Pour like seconds, wherever  
+    And when my last day has come
+    I'll wonder where They're all gone
+    
+    Everyday work makes me busy
+    Looking for sex makes me busy
+    News of the wold make me busy
+    It's seems that life is easy
+
+    I'm entertained, and hours
+    Pour like seconds, wherever  
+    And when my last day has come
+    I'll wonder where They're all gone
+		
+
+```
+
+
+## <a name="people"></a>People we don't know
+### Enregistrement
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235895922&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+### Thème
+
+Une chanson Peace and love car c'est un message qu'il ne faut pas se lasser de répéter. Ca peut sembler niais. Mais dans les années 60 on militait pour la liberté, et personne n'aurait voté pour des partis fascistes comme aujourd'hui. Donc le message est loin d'être passé. 
+
+
+### Paroles
+
+
+```
+
+	It's easy to be mean or intolerant
+	Always have someone to blame is convenient 
+	It's easy to fall in love and to have friends
+	Easy to find people to hate and to kill them
+
+	It's not easy to love 
+	people we don't know
+	But it's the only way
+	For us to live in peace
+	We say it's a foolish dream
+	When we don't want to try
+
+	What if God was a sparse consciousness
+	that universal love is the safe way to go
+	Ans as it's opposite to our natural instinct
+	We believe this thought is coming from above
+
+	It's not easy to care 
+	for who don't care for us
+	But it's the only way
+	For us to live in peace
+	Think of them as ourselves
+	Don't we want to be loved ?
+	
+	It's not easy to love 
+	people we don't know
+	But it's the only way
+	For us to live in peace
+	We say it's a foolish dream
+	When we don't want to try
+
+
+
+```
+
+
+# Graphisme
+## Pochettes
+<a href='https://photos.google.com/share/AF1QipMjWaK_nAGYLokzN4bJTzRUmi-RkM3nIP5SvHphJt5mnLNAvLtDVBnH2oXDS16-zg?key=MDljZ2RCcGZqRGIwaEgwLVQwRmlSN2UxbWJkQkNR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/kAspbEnAe6JjPa1nIH5qEF6t9iZ_1CJoW1Oi6HIWHayTverxWVJP4lFlkA_hu-y5I09vdnPQH_BTT-OLj0_emYS3m_H01smiYHrP8YmDpJ-al6Tne0axParZS4H6LSTaUvrB9Kg' /></a>
+
+## Flyers
+<a href='https://photos.google.com/share/AF1QipN9k0bsNbkzjoWRg8IGQakRvapgOqTxXBzQgskmynhF4s0Dl_QpJ_ENkGP4ah4VqQ?key=VGNzRXQ1eUFCZ3dRUkdkNndVZ1RVbEtlczNDTmNn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/fkG46U6NEy8aLot7IijuOhU36qi9o7DC8y71xVWrXcYXg8TqQROfZDGSfoo1iwnXagyTdHfhL61X_0GFRqGNg-NEewn-yzLCNmgMkeFboJlGKvmUHqGqvZPGMvs3FinsZZGPHGU' /></a>
+## photos non utilisées
+
+<a href='https://photos.google.com/share/AF1QipOkRaCPHbkt0hWoMxKzyev35vGbayS_zyuD1au9ySe4TDrkgCKwvqwb7mQqw-L_Gg?key=YV9kNHpoV0dUdkVBRGNGNUlrREFzRTVzQ1R4UHNB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/_ko8ssJMrckrLtjoS1IJUNOeR9bA6-6iR88UQ5h80mPKBriVDYfvN-DbtuYI3J-dVxg0QIVYXiWQP_nPoGTClzBownIO4l-ijbideKFimCkkL37StapSSJZMxTmnunUdtT26004' /></a>
+
+
+
+
+
+
+
