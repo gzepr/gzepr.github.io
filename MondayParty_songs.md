@@ -143,10 +143,10 @@ Une chanson d’amour plus légère. C’est l’histoire de la rencontre entre 
 	felt she was unknown poetry
 	Alone, she found her life was Lalala
 
-	And now they're floating, 
-	Counting the stars
-	And the music form the sky
-	Don't say no more Lalala
+	And now they're both 
+	talking to the stars
+	And the voices from the sky
+	Don't sing no more Lalala
 
 	No it' more like:
 	La
