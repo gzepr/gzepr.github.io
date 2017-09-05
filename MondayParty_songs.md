@@ -11,13 +11,14 @@ Songs by Eric Humbert
 
 - [Lottery winner](#lottery)
 - [If you're not here](#if)
-- [Lalala](#lala)
+- [Floating around](#lala)
 - [When](#when)
 - [Asleep](#asleep)
 - [A Girl from the Islands](#girl)
 - [Self-preservation](#sp)
 - [Entertained](#ent)
-- [Peopple we don't know](#people)
+- [People we don't know](#people)
+- [Whish you had time](#whish)
 
 
 
@@ -392,7 +393,7 @@ Une chanson Peace and Love, car c'est un message qu'il ne faut pas se lasser de 
 	It's easy to be mean or intolerant
 	Always have someone to blame is convenient 
 	It's easy to fall in love and to have friends
-	Easy to find people to hate and to kill them
+	Easy to find people to hate or even kill
 
 	It's not easy to love 
 	people we don't know
@@ -424,6 +425,46 @@ Une chanson Peace and Love, car c'est un message qu'il ne faut pas se lasser de 
 
 ```
 
+## <a name="whish"></a>Wish you had time
+
+
+Une chanson Peace and Love, car c'est un message qu'il ne faut pas se lasser de répéter. Ca peut sembler niais. Mais dans les années 60 on militait pour la liberté, et personne n'aurait voté pour des partis fascistes comme aujourd'hui. Donc le message est loin d'être passé. 
+
+
+### Paroles
+
+
+```
+
+	Once i met an old man planting a tree
+	in its garden and i wondered why 
+	He said he always liked to live is life as if
+	he would never die eventually
+	That was a surprise, i thought how interesting
+	I used to do the other way around
+	I always live as if I'll die tommorrow
+	
+	You wish you had time
+	to do nothing
+	You wish you had time
+	to do more things
+	
+	Should I jump in
+	Add my own melody
+	Or should I just sit
+	And enjoy the music
+	Is it best to be a bird
+	fighting gravity
+	Or a snake feeling earth
+	all along its body
+	
+	You wish you had time
+	to do nothing
+	You wish you had time
+	to do more things
+	
+	
+```
 
 # Graphisme
 ## Pochettes
