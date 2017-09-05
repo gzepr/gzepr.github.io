@@ -428,7 +428,7 @@ Une chanson Peace and Love, car c'est un message qu'il ne faut pas se lasser de 
 ## <a name="whish"></a>Wish you had time
 
 
-Une chanson Peace and Love, car c'est un message qu'il ne faut pas se lasser de répéter. Ca peut sembler niais. Mais dans les années 60 on militait pour la liberté, et personne n'aurait voté pour des partis fascistes comme aujourd'hui. Donc le message est loin d'être passé. 
+Une interrogation sur la meilleure façon de vivre sa vie, entre action et contemplation. 
 
 
 ### Paroles
