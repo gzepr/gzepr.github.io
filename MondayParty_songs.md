@@ -125,7 +125,7 @@ Une chanson sur le deuil, le manque, l'amour crié dans le vide.
 
 
 
-## <a name="lala"></a>Lalala 
+## <a name="lala"></a>Floating around 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131667378&amp;color=00ffa8&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -137,28 +137,24 @@ Une chanson d’amour plus légère. C’est l’histoire de la rencontre entre 
 
 	He was talking to the clouds
 	felt he was knocked out in the first round
-	Alone, he found his life was Lalala
+	Alone, he missed someone who understands
 
 	She was talking to the trees
 	felt she was unknown poetry
-	Alone, she found her life was Lalala
-
-	And now they're both 
-	talking to the stars
-	And the voices from the sky
-	Don't sing no more Lalala
-
-	No it' more like:
-	La
-	Lalala La La
-	Lalala La La
-	Lalala La La La
-
-	Yes it's more like:
-	La
-	Lalala La La
-	Lalala La La
-	Lalala La La La
+	Alone, she missed someone who understands
+	
+	And hopefully 
+	clouds talk to trees
+	And they told the lonely hearts 
+	they knew someone just right for them
+	
+	And now that they found
+	each other's hands
+	They're talking to the stars
+	Floating around
+	in outer space
+	they're trully living
+	
 	
 ```
 
