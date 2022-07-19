@@ -1,4 +1,4 @@
-# Monday Party
+# Montay
 Songs by Eric Humbert
 ## Demos
 
